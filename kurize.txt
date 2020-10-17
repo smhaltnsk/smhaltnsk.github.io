@@ -1,4 +1,4 @@
 {
-   "0":"https://hepsibahcemden.com.trhbjhbj",
+   "0":"https://hepsibahcemden.com.tr",
    "1":"https://hepsibahcemden.com"
 }
